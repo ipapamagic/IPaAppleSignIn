@@ -1,0 +1,16 @@
+PODS:
+  - IPaAppleSignIn (0.1.0)
+
+DEPENDENCIES:
+  - IPaAppleSignIn (from `../`)
+
+EXTERNAL SOURCES:
+  IPaAppleSignIn:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IPaAppleSignIn: d8a2f121765e2302354319b8f0389d82371ed6e1
+
+PODFILE CHECKSUM: 4159419529bb72f8469a3e32479528ea822a99fc
+
+COCOAPODS: 1.9.1

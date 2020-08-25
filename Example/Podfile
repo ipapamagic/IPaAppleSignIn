@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IPaAppleSignIn_Example' do
+  pod 'IPaAppleSignIn', :path => '../'
+
+  target 'IPaAppleSignIn_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
