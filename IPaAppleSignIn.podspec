@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IPaAppleSignIn'
-  s.version          = '1.0'
+  s.version          = '1.0.0'
   s.summary          = 'IPa''s tools for AppleSignIn.'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'IPaAppleSignIn/Classes/**/*'
-  s.swift_version = '5.2'
+  s.source_files = 'Sources/IPaAppleSignIn/**/*'
   # s.resource_bundles = {
   #   'IPaAppleSignIn' => ['IPaAppleSignIn/Assets/*.png']
   # }
